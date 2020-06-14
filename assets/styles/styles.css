@@ -3,7 +3,9 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #E3E3E3;
+
+		background-color: Black;
+		/* #E3E3E3 */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #E3E3E3;
+		background: Black;
 }
 
 .img-circle {
@@ -74,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 #about {
 		margin-top: 10em;
 		border: 1px solid #eee;
-		background-color: white;
+		background-color: Black;
 		padding-bottom: 1em;
 }
 
@@ -115,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 		text-transform: uppercase;
 		border: 2px solid rgba(255, 103, 68, 0.91);
 		border-radius: 50px;
-		background: white;
+		background: none;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
@@ -179,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #fff;
+	background-color: #FFEFD5;
 }
 
 #work h2 {
@@ -279,7 +281,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: Black;(255, 103, 68, 0.91)
 	padding: 6em 4em 5.6em;
 }
 
